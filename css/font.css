@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Subway-Footlong';
+  src: url('../subway-food/Subway-Footlong.woff') format('woff2'),
+    url('../subway-food/Subway-Footlong.woff') format('woff');
+}
+@font-face {
+  font-family: 'Subway-SixInch';
+  src: url('../subway-food/Subway-SixInch.woff') format('woff2'),
+    url('../subway-food/Subway-SixInch.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'NotoSansKR-Bold';
+  src: url('../subway-food/NotoSansKR-Bold.woff') format('woff2'),
+    url('../subway-food/NotoSansKR-Bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'NotoSansKR-Medium';
+  src: url('../subway-food/NotoSansKR-Medium.woff') format('woff2'),
+    url('../subway-food/NotoSansKR-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'NotoSansKR-Regular';
+  src: url('../subway-food/NotoSansKR-Regular.woff') format('woff2'),
+    url('../subway-food/NotoSansKR-Regular.woff') format('woff');
+}
